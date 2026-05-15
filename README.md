@@ -36,8 +36,11 @@
 ```
 CodeIt-Abhay.github.io/
 │
-├── index.html        # Main portfolio file (everything in one file)
-└── README.md         # You are here
+├── index.html       # Main HTML structure
+├── script.js        # JavaScript for interactivity and logic
+├── styles.css       # (Recommended) Standard stylesheet  
+└── README.md
+         # You are here
 ```
  
 ---
